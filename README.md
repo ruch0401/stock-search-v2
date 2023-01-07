@@ -2,9 +2,7 @@
 
 ## Demo (Click on the thumbmail below to view on YouTube)
 
-<a href="https://www.youtube.com/watch?v=43Dg7sZt1lc" target="_blank">
- <img src="https://raw.githubusercontent.com/ruch0401/resources/main/csci-571/stock-search-angular-thumbnail.png" alt="Watch the video for project demo"/>
-</a>
+[Click to view Demo](https://www.youtube.com/watch?v=43Dg7sZt1lc)
 
 ### Salient Features
 
@@ -21,7 +19,8 @@ d) Portfolio Route [‘/portfolio’] – It displays the portfolio of the user.
 
 ## Hands On!
 
-Try the app yourself here - https://jdofgbmx.uw.r.appspot.com/search/home
+Try the app yourself here - https://jdofgbmx.uw.r.appspot.com/  
+
 
 ## Technologies Used
 
